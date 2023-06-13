@@ -12,7 +12,7 @@ public class QueryProcessor {
           + "writer in the English language and the world's pre-eminent dramatist. 1234";
     }
 
-    if (query.toLowerCase().contains("dummyduck")) {
+    if (query.toLowerCase().contains("playwright")) {
       return "RobTest";
     }
 

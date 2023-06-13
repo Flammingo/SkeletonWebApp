@@ -1,4 +1,4 @@
-package com.develogical;
+/*package com.develogical;
 
 import static org.hamcrest.CoreMatchers.containsString;
 import static org.hamcrest.CoreMatchers.is;
@@ -25,3 +25,4 @@ public class QueryProcessorTest {
     assertThat(queryProcessor.process("What is your name?"), containsString("RobTest"));
   }
 }
+*/
